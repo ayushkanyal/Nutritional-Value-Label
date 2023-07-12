@@ -1,0 +1,47 @@
+*{
+    box-sizing:border-box;
+  }
+html{
+    font-size:16px;
+  }
+body{
+    font-family: "Open Sans", sans-serif;
+  }
+.container{
+    border: 2px solid black;
+    width: 275px;
+    margin: 20px auto;
+    padding: 0 7px;
+}
+h1{
+    text-align: center;
+    margin: -4px 0px;
+}
+
+.divider{
+    border-bottom: 1px solid #888989;
+    margin: 2px 0px;
+  }
+p{
+    margin:0px;
+  }
+.divider2{
+    border-bottom: 15px solid black;
+    margin: 2px 0px;
+  }
+h2{
+    margin: -2px 0px;
+    font-size: 36px;
+}
+.divider3{
+    border-bottom: 7px solid black;
+    margin: 2px 0px;
+}
+/* Universal Class */
+.bold{
+    font-weight: 800;
+}
+.bold2{
+    font-weight: 730;
+    font-size: 14px;
+}
