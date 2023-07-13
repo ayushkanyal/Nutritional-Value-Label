@@ -9,7 +9,7 @@ body{
   }
 .container{
     border: 2px solid black;
-    width: 275px;
+    width: 290px;
     margin: 20px auto;
     padding: 0 7px;
 }
@@ -25,6 +25,18 @@ h1{
 p{
     margin:0px;
   }
+/*text positioning */
+
+.left{
+  text-align: right;
+}
+
+.gap{
+  margin-left: 15px;
+}
+.extragap{
+  margin-left:30px;
+}
 .divider2{
     border-bottom: 15px solid black;
     margin: 2px 0px;
@@ -44,4 +56,8 @@ h2{
 .bold2{
     font-weight: 730;
     font-size: 14px;
+}
+.disclaimer{
+  font-size: 12px;
+  margin: 4px;
 }
